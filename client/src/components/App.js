@@ -5,8 +5,8 @@ import * as actions from '../actions';
 import Header from './../components/Header';
 import Dashboard from './../components/Dashboard';
 import Landing from './../components/Landing';
+import SurveyNew from './../components/surveys/SurveyNew';
 
-const SurveyNew =() =><h2>SurveyNew</h2>;
 
 
 class App extends React.Component{
